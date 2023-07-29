@@ -1,0 +1,8 @@
+{
+"server": {
+            "api_key": "KEY_SERVER_MAYARENA"
+},
+"telegram": {
+    "token": "TELEGRAM_TOKEN"
+}
+}

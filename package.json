@@ -1,0 +1,16 @@
+{
+  "name": "server-rust",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iwonz/myarena-ru-nodejs-api": "^4.0.1",
+    "mysql2": "^3.5.2",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
